@@ -5,7 +5,7 @@ math's Marks of grade 6b in class test
 </title>
 </head>
 <Body>
-<Table border="500px" width=500 Height=200 align=center>
+<Table border="1px" width=500 Height=200 align=center>
 <tr>
 <td> Name
 <td>Score
