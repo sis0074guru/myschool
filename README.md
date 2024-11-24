@@ -1,9 +1,4 @@
 <html>
-<head>
-<Title>
-math's Marks of grade 6b in class test
-</title>
-</head>
 <Body>
 <Table border="1px" width=500 Height=200 align=center>
 <tr>
